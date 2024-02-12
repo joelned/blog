@@ -1,0 +1,24 @@
+{
+"type": "mysql2", 
+"host": "localhost", 
+"port": 3307, 
+"username": "root", 
+"password": "ceiling", 
+"logging": true, 
+"synchronize": true, 
+"entities": ["./Models/*.js"], 
+"cli": {
+ 	"entitiesDir": "src/Models"
+
+}
+
+
+
+
+
+
+
+
+
+
+}

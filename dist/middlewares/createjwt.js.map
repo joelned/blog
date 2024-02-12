@@ -1,0 +1,1 @@
+{"version":3,"file":"createjwt.js","sourceRoot":"","sources":["../../src/middlewares/createjwt.ts"],"names":[],"mappings":";;;;;;AAAA,gEAA8B;AAKjB,QAAA,SAAS,GAAG,6BAA6B,CAAA;AAEtD,SAAgB,SAAS,CAAC,WAAwB;IAClD,MAAM,SAAS,GAAG,IAAI,CAAA;IAEtB,MAAM,KAAK,GAAG,sBAAG,CAAC,IAAI,CAAC,WAAW,EAAE,iBAAS,EAAE,EAAC,SAAS,EAAC,CAAC,CAAA;IAC3D,OAAO,KAAK,CAAA;AAEZ,CAAC;AAND,8BAMC"}
